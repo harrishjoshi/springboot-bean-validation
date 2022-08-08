@@ -1,0 +1,8 @@
+/media/harxsh/Workspace/Java/springboot-mongo-validator/src/main/java/com/harxsh/springboot/mongo/validator/service/TodoService.java
+/media/harxsh/Workspace/Java/springboot-mongo-validator/src/main/java/com/harxsh/springboot/mongo/validator/collection/Todo.java
+/media/harxsh/Workspace/Java/springboot-mongo-validator/src/main/java/com/harxsh/springboot/mongo/validator/controller/TodoController.java
+/media/harxsh/Workspace/Java/springboot-mongo-validator/src/main/java/com/harxsh/springboot/mongo/validator/SpringbootMongoValidatorApplication.java
+/media/harxsh/Workspace/Java/springboot-mongo-validator/src/main/java/com/harxsh/springboot/mongo/validator/util/StringUtil.java
+/media/harxsh/Workspace/Java/springboot-mongo-validator/src/main/java/com/harxsh/springboot/mongo/validator/repository/TodoRepository.java
+/media/harxsh/Workspace/Java/springboot-mongo-validator/src/main/java/com/harxsh/springboot/mongo/validator/config/SpringFoxConfig.java
+/media/harxsh/Workspace/Java/springboot-mongo-validator/src/main/java/com/harxsh/springboot/mongo/validator/service/TodoServiceImpl.java
